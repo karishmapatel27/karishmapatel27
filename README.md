@@ -1,16 +1,15 @@
-### Hi there 👋
+### Kia ora! I'm Karishma
 
-<!--
-**karishmapatel27/karishmapatel27** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+👋 Hi! I am a Full Stack developer recently graduated from Enspiral Dev Academy. Welcome to my GitHub page!
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭I’m currently working on strengthening my existing knowledge, gaining new skills and openly looking for a job opportunity.  
+
+- 🌱 I’m currently learning: 
+        - react hooks 
+        - SQL
+
+- 📫 How to reach me: 
+    :email: karishmapatel93@hotmail.com
+    :link: www.linkedin.com/in/karishma-patel27 
+
