@@ -10,6 +10,8 @@
         - SQL
 
 - 📫 How to reach me: 
+
     :email: karishmapatel93@hotmail.com
+    
     :link: www.linkedin.com/in/karishma-patel27 
 
