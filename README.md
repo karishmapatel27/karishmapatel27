@@ -6,7 +6,9 @@
 - 🔭I’m currently working on strengthening my existing knowledge, gaining new skills and openly looking for a job opportunity.  
 
 - 🌱 I’m currently learning: 
+
         - react hooks 
+        
         - SQL
 
 - 📫 How to reach me: 
