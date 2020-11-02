@@ -8,6 +8,8 @@
 - 🌱 I’m currently learning: 
      
      - React hooks 
+     
+     - Gatsby
         
      - SQL
 
