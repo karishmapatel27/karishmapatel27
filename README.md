@@ -9,9 +9,7 @@
      
      - React hooks 
      
-     - Gatsby
-        
-     - SQL
+     - Python
 
 - 📫 How to reach me: 
 
