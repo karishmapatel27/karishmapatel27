@@ -10,6 +10,8 @@
      - React hooks 
      
      - Python
+     
+     - C#
 
 - 📫 How to reach me: 
 
