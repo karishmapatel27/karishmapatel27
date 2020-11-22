@@ -12,6 +12,8 @@
      - Python
      
      - C#
+     
+     - SQL
 
 - 📫 How to reach me: 
 
