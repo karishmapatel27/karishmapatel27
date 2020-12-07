@@ -9,9 +9,7 @@
      
      - React hooks 
      
-     - Python
-     
-     - C#
+     - TypeScript
      
      - SQL
 
