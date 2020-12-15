@@ -10,8 +10,6 @@
      - React hooks 
      
      - TypeScript
-     
-     - SQL
 
 - 📫 How to reach me: 
 
