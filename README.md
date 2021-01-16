@@ -7,9 +7,11 @@
 
 - 🌱 I’m currently learning: 
      
-     - React hooks 
+     - PHP
      
-     - TypeScript
+     - SQL
+     
+     - React hooks
 
 - 📫 How to reach me: 
 
